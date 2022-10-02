@@ -1,10 +1,8 @@
-*:hover {
-  border: 1px solid red;
-}
+
 
 body {
   display: grid;
-  background-color: black;
+  background: content-box radial-gradient(rgb(3, 32, 25), rgb(28, 1, 11));
 }
 
 .main {
